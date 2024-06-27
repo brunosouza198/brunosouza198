@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brunosoza198
+- 👋 Hi, I’m brunosouza
 - 👀 I’m interested in  Front-end and Back-end  
 - 🌱 I’m currently learning  programmation
 - 🌱 I started to learning with alura.(https://www.alura.com.br/)
